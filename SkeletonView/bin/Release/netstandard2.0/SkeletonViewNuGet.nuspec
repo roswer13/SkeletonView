@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata minClientVersion="">
+    <id>SkeletonViewNuGet</id>
+    <version>1.0.0</version>
+    <title></title>
+    <authors>Roswer Garcia</authors>
+    <owners>Roswer Garcia</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This library allows you to generate a skeleton animation that can be used while waiting for the data to be loaded into view.</description>
+    <summary></summary>
+    <releaseNotes></releaseNotes>
+    <copyright></copyright>
+    <language></language>
+    <tags></tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Xamarin.Forms" version="4.0.0.425677" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/Microsoft.Win32.Primitives.dll" target="lib/netstandard2.0/Microsoft.Win32.Primitives.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/mscorlib.dll" target="lib/netstandard2.0/mscorlib.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/netstandard.dll" target="lib/netstandard2.0/netstandard.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.AppContext.dll" target="lib/netstandard2.0/System.AppContext.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Collections.Concurrent.dll" target="lib/netstandard2.0/System.Collections.Concurrent.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Collections.dll" target="lib/netstandard2.0/System.Collections.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Collections.NonGeneric.dll" target="lib/netstandard2.0/System.Collections.NonGeneric.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Collections.Specialized.dll" target="lib/netstandard2.0/System.Collections.Specialized.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.ComponentModel.Composition.dll" target="lib/netstandard2.0/System.ComponentModel.Composition.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.ComponentModel.dll" target="lib/netstandard2.0/System.ComponentModel.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.ComponentModel.EventBasedAsync.dll" target="lib/netstandard2.0/System.ComponentModel.EventBasedAsync.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.ComponentModel.Primitives.dll" target="lib/netstandard2.0/System.ComponentModel.Primitives.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.ComponentModel.TypeConverter.dll" target="lib/netstandard2.0/System.ComponentModel.TypeConverter.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Console.dll" target="lib/netstandard2.0/System.Console.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Core.dll" target="lib/netstandard2.0/System.Core.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Data.Common.dll" target="lib/netstandard2.0/System.Data.Common.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Data.dll" target="lib/netstandard2.0/System.Data.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Diagnostics.Contracts.dll" target="lib/netstandard2.0/System.Diagnostics.Contracts.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Diagnostics.Debug.dll" target="lib/netstandard2.0/System.Diagnostics.Debug.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Diagnostics.FileVersionInfo.dll" target="lib/netstandard2.0/System.Diagnostics.FileVersionInfo.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Diagnostics.Process.dll" target="lib/netstandard2.0/System.Diagnostics.Process.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Diagnostics.StackTrace.dll" target="lib/netstandard2.0/System.Diagnostics.StackTrace.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Diagnostics.TextWriterTraceListener.dll" target="lib/netstandard2.0/System.Diagnostics.TextWriterTraceListener.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Diagnostics.Tools.dll" target="lib/netstandard2.0/System.Diagnostics.Tools.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Diagnostics.TraceSource.dll" target="lib/netstandard2.0/System.Diagnostics.TraceSource.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Diagnostics.Tracing.dll" target="lib/netstandard2.0/System.Diagnostics.Tracing.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.dll" target="lib/netstandard2.0/System.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Drawing.dll" target="lib/netstandard2.0/System.Drawing.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Drawing.Primitives.dll" target="lib/netstandard2.0/System.Drawing.Primitives.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Dynamic.Runtime.dll" target="lib/netstandard2.0/System.Dynamic.Runtime.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Globalization.Calendars.dll" target="lib/netstandard2.0/System.Globalization.Calendars.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Globalization.dll" target="lib/netstandard2.0/System.Globalization.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Globalization.Extensions.dll" target="lib/netstandard2.0/System.Globalization.Extensions.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.Compression.dll" target="lib/netstandard2.0/System.IO.Compression.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.Compression.FileSystem.dll" target="lib/netstandard2.0/System.IO.Compression.FileSystem.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.Compression.ZipFile.dll" target="lib/netstandard2.0/System.IO.Compression.ZipFile.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.dll" target="lib/netstandard2.0/System.IO.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.FileSystem.dll" target="lib/netstandard2.0/System.IO.FileSystem.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.FileSystem.DriveInfo.dll" target="lib/netstandard2.0/System.IO.FileSystem.DriveInfo.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.FileSystem.Primitives.dll" target="lib/netstandard2.0/System.IO.FileSystem.Primitives.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.FileSystem.Watcher.dll" target="lib/netstandard2.0/System.IO.FileSystem.Watcher.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.IsolatedStorage.dll" target="lib/netstandard2.0/System.IO.IsolatedStorage.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.MemoryMappedFiles.dll" target="lib/netstandard2.0/System.IO.MemoryMappedFiles.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.Pipes.dll" target="lib/netstandard2.0/System.IO.Pipes.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.IO.UnmanagedMemoryStream.dll" target="lib/netstandard2.0/System.IO.UnmanagedMemoryStream.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Linq.dll" target="lib/netstandard2.0/System.Linq.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Linq.Expressions.dll" target="lib/netstandard2.0/System.Linq.Expressions.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Linq.Parallel.dll" target="lib/netstandard2.0/System.Linq.Parallel.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Linq.Queryable.dll" target="lib/netstandard2.0/System.Linq.Queryable.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.dll" target="lib/netstandard2.0/System.Net.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.Http.dll" target="lib/netstandard2.0/System.Net.Http.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.NameResolution.dll" target="lib/netstandard2.0/System.Net.NameResolution.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.NetworkInformation.dll" target="lib/netstandard2.0/System.Net.NetworkInformation.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.Ping.dll" target="lib/netstandard2.0/System.Net.Ping.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.Primitives.dll" target="lib/netstandard2.0/System.Net.Primitives.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.Requests.dll" target="lib/netstandard2.0/System.Net.Requests.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.Security.dll" target="lib/netstandard2.0/System.Net.Security.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.Sockets.dll" target="lib/netstandard2.0/System.Net.Sockets.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.WebHeaderCollection.dll" target="lib/netstandard2.0/System.Net.WebHeaderCollection.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.WebSockets.Client.dll" target="lib/netstandard2.0/System.Net.WebSockets.Client.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Net.WebSockets.dll" target="lib/netstandard2.0/System.Net.WebSockets.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Numerics.dll" target="lib/netstandard2.0/System.Numerics.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.ObjectModel.dll" target="lib/netstandard2.0/System.ObjectModel.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Reflection.dll" target="lib/netstandard2.0/System.Reflection.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Reflection.Extensions.dll" target="lib/netstandard2.0/System.Reflection.Extensions.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Reflection.Primitives.dll" target="lib/netstandard2.0/System.Reflection.Primitives.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Resources.Reader.dll" target="lib/netstandard2.0/System.Resources.Reader.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Resources.ResourceManager.dll" target="lib/netstandard2.0/System.Resources.ResourceManager.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Resources.Writer.dll" target="lib/netstandard2.0/System.Resources.Writer.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.CompilerServices.VisualC.dll" target="lib/netstandard2.0/System.Runtime.CompilerServices.VisualC.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.dll" target="lib/netstandard2.0/System.Runtime.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.Extensions.dll" target="lib/netstandard2.0/System.Runtime.Extensions.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.Handles.dll" target="lib/netstandard2.0/System.Runtime.Handles.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.InteropServices.dll" target="lib/netstandard2.0/System.Runtime.InteropServices.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.InteropServices.RuntimeInformation.dll" target="lib/netstandard2.0/System.Runtime.InteropServices.RuntimeInformation.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.Numerics.dll" target="lib/netstandard2.0/System.Runtime.Numerics.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.Serialization.dll" target="lib/netstandard2.0/System.Runtime.Serialization.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.Serialization.Formatters.dll" target="lib/netstandard2.0/System.Runtime.Serialization.Formatters.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.Serialization.Json.dll" target="lib/netstandard2.0/System.Runtime.Serialization.Json.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.Serialization.Primitives.dll" target="lib/netstandard2.0/System.Runtime.Serialization.Primitives.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Runtime.Serialization.Xml.dll" target="lib/netstandard2.0/System.Runtime.Serialization.Xml.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Security.Claims.dll" target="lib/netstandard2.0/System.Security.Claims.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Security.Cryptography.Algorithms.dll" target="lib/netstandard2.0/System.Security.Cryptography.Algorithms.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Security.Cryptography.Csp.dll" target="lib/netstandard2.0/System.Security.Cryptography.Csp.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Security.Cryptography.Encoding.dll" target="lib/netstandard2.0/System.Security.Cryptography.Encoding.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Security.Cryptography.Primitives.dll" target="lib/netstandard2.0/System.Security.Cryptography.Primitives.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Security.Cryptography.X509Certificates.dll" target="lib/netstandard2.0/System.Security.Cryptography.X509Certificates.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Security.Principal.dll" target="lib/netstandard2.0/System.Security.Principal.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Security.SecureString.dll" target="lib/netstandard2.0/System.Security.SecureString.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.ServiceModel.Web.dll" target="lib/netstandard2.0/System.ServiceModel.Web.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Text.Encoding.dll" target="lib/netstandard2.0/System.Text.Encoding.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Text.Encoding.Extensions.dll" target="lib/netstandard2.0/System.Text.Encoding.Extensions.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Text.RegularExpressions.dll" target="lib/netstandard2.0/System.Text.RegularExpressions.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Threading.dll" target="lib/netstandard2.0/System.Threading.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Threading.Overlapped.dll" target="lib/netstandard2.0/System.Threading.Overlapped.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Threading.Tasks.dll" target="lib/netstandard2.0/System.Threading.Tasks.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Threading.Tasks.Parallel.dll" target="lib/netstandard2.0/System.Threading.Tasks.Parallel.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Threading.Thread.dll" target="lib/netstandard2.0/System.Threading.Thread.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Threading.ThreadPool.dll" target="lib/netstandard2.0/System.Threading.ThreadPool.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Threading.Timer.dll" target="lib/netstandard2.0/System.Threading.Timer.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Transactions.dll" target="lib/netstandard2.0/System.Transactions.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.ValueTuple.dll" target="lib/netstandard2.0/System.ValueTuple.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Web.dll" target="lib/netstandard2.0/System.Web.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Windows.dll" target="lib/netstandard2.0/System.Windows.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.dll" target="lib/netstandard2.0/System.Xml.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.Linq.dll" target="lib/netstandard2.0/System.Xml.Linq.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.ReaderWriter.dll" target="lib/netstandard2.0/System.Xml.ReaderWriter.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.Serialization.dll" target="lib/netstandard2.0/System.Xml.Serialization.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.XDocument.dll" target="lib/netstandard2.0/System.Xml.XDocument.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.XmlDocument.dll" target="lib/netstandard2.0/System.Xml.XmlDocument.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.XmlSerializer.dll" target="lib/netstandard2.0/System.Xml.XmlSerializer.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.XPath.dll" target="lib/netstandard2.0/System.Xml.XPath.dll" />
+    <file src="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/build/netstandard2.0/ref/System.Xml.XPath.XDocument.dll" target="lib/netstandard2.0/System.Xml.XPath.XDocument.dll" />
+    <file src="/Users/roswergarcia/Projects/SkeletonView/SkeletonView/bin/Release/netstandard2.0/SkeletonView.dll" target="lib/netstandard2.0/SkeletonView.dll" />
+  </files>
+</package>

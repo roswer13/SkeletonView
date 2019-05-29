@@ -1,0 +1,9 @@
+/Users/roswergarcia/Projects/SkeletonView/SkeletonView/bin/Release/netstandard2.0/SkeletonView.deps.json
+/Users/roswergarcia/Projects/SkeletonView/SkeletonView/bin/Release/netstandard2.0/SkeletonView.dll
+/Users/roswergarcia/Projects/SkeletonView/SkeletonView/bin/Release/netstandard2.0/SkeletonView.pdb
+/Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/Release/netstandard2.0/SkeletonView.csproj.CoreCompileInputs.cache
+/Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/Release/netstandard2.0/SkeletonView.AssemblyInfoInputs.cache
+/Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/Release/netstandard2.0/SkeletonView.AssemblyInfo.cs
+/Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/Release/netstandard2.0/XamlC.stamp
+/Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/Release/netstandard2.0/SkeletonView.dll
+/Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/Release/netstandard2.0/SkeletonView.pdb

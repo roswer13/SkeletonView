@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceAssemblyReference>true</ProduceAssemblyReference>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>SkeletonViewNuGet</PackageId>
+    <Authors>Roswer Garcia</Authors>
+    <Description>This library allows you to generate a skeleton animation that can be used while waiting for the data to be loaded into view.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.0.0.425677" />
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Helps\" />
+  </ItemGroup>
+</Project>
