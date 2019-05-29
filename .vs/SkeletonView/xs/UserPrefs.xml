@@ -1,14 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="SkeletonView/SkeletonView.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SkeletonView/AssemblyInfo.cs">
     <Files>
-      <File FileName="SkeletonView/SkeletonView.cs" Line="19" Column="10" />
+      <File FileName="SkeletonView/AssemblyInfo.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SkeletonView" expanded="True">
-            <Node name="SkeletonView" expanded="True" selected="True">
-              <Node name="Helps" expanded="True" />
+            <Node name="SkeletonView" expanded="True">
+              <Node name="AssemblyInfo.cs" selected="True" />
             </Node>
           </Node>
         </State>

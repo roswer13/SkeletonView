@@ -491,7 +491,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/roswergarcia/Projects/SkeletonView/SkeletonView/SkeletonView.csproj",
-      "projectName": "SkeletonViewNuGet",
+      "projectName": "SkeletonView",
       "projectPath": "/Users/roswergarcia/Projects/SkeletonView/SkeletonView/SkeletonView.csproj",
       "packagesPath": "/Users/roswergarcia/.nuget/packages/",
       "outputPath": "/Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/",
