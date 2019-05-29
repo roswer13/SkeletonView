@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "d05ed01c4a62ac20fb4826bae403ac7b0d5a7492"
+    "signature": "3e4e1d85819725c55611b145538ba41739e3eeb6"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,7 @@
       "SkeletonView/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "NuGet.Build.Packaging": "0.2.0",
+          "NuGet.Build.Packaging": "0.2.2",
           "Xamarin.Forms": "4.0.0.425677"
         },
         "runtime": {
@@ -23,7 +23,7 @@
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
       },
-      "NuGet.Build.Packaging/0.2.0": {},
+      "NuGet.Build.Packaging/0.2.2": {},
       "Xamarin.Forms/4.0.0.425677": {
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
@@ -62,12 +62,12 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
-    "NuGet.Build.Packaging/0.2.0": {
+    "NuGet.Build.Packaging/0.2.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-EGw4itPEPlOvgB3uZ8GKTrikbeN2GkF0GFW3hK+BK1dI7ELwuHDH5t1vg8e+XKB4DXuHz6sS7sjMMiUCJx5I5A==",
-      "path": "nuget.build.packaging/0.2.0",
-      "hashPath": "nuget.build.packaging.0.2.0.nupkg.sha512"
+      "sha512": "sha512-O+stNx60uWVIIrz3yLTxEF1IbsIXIE4m7oxh6+nytcH8dkKe7c1++uGjmgItzVB8ht+K7mn7otk6em5orpS8Cw==",
+      "path": "nuget.build.packaging/0.2.2",
+      "hashPath": "nuget.build.packaging.0.2.2.nupkg.sha512"
     },
     "Xamarin.Forms/4.0.0.425677": {
       "type": "package",

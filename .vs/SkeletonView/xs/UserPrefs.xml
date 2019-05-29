@@ -1,20 +1,22 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="SkeletonView/SkeletonView.cs">
     <Files>
-      <File FileName="SkeletonView/SkeletonView.cs" Line="87" Column="48" />
+      <File FileName="SkeletonView/SkeletonView.cs" Line="19" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SkeletonView" expanded="True">
-            <Node name="SkeletonView" expanded="True" selected="True" />
+            <Node name="SkeletonView" expanded="True" selected="True">
+              <Node name="Helps" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

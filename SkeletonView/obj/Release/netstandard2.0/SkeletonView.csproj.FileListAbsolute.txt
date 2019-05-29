@@ -7,3 +7,4 @@
 /Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/Release/netstandard2.0/XamlC.stamp
 /Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/Release/netstandard2.0/SkeletonView.dll
 /Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/Release/netstandard2.0/SkeletonView.pdb
+/Users/roswergarcia/Projects/SkeletonView/SkeletonView/obj/Release/netstandard2.0/SkeletonView.csprojAssemblyReference.cache
