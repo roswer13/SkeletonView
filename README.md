@@ -3,7 +3,7 @@
 # SkeletonView
 It is a portable library designed for Xamarin.Forms that aims to generate **animations** to the elements of the view and can change its binding its state.  It is very useful when loading data when in the view and shows the user that is generating an action.
 
-![](/Media/video.gif)
+<img src="./Media/video.gif" width="300" height="600" />
 
 ## How to use it?
 
